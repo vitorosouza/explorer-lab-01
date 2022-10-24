@@ -13,7 +13,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 <p align="center">
-  <a href="https://explorer-lab-01-red-kappa.vercel.app/">🎉Deploy do Projeto pronto!🎉</a>
+  <a href="https://explorer-lab-01-red-kappa.vercel.app/">🎉Deploy do Projeto!🎉</a>
 </p>
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
